@@ -85,8 +85,8 @@ This firewall defaults to **fail-closed**: if an unhandled exception or internal
 
 ```bash
 # 1. Clone and set up virtual environment
-git clone https://github.com/YOUR_USERNAME/agent-firewall.git
-cd agent-firewall
+git clone https://github.com/ayushpratap13/agentic-firewall-guardrail.git
+cd agentic-firewall-guardrail
 python -m venv venv
 venv\Scripts\activate        # Windows
 # source venv/bin/activate   # Mac/Linux
